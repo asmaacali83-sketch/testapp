@@ -1,0 +1,24 @@
+Build the complete personal portfolio website for **Asmaa Cali Jimcaale**, a **Web Developer**, with a **Creative & Colorful** design.
+
+IMPORTANT: Asmaa has supplied five REAL screenshots of websites she created. They are included in `public/images/projects/`. You MUST use these exact images in the Projects section. Do not replace them with AI-generated images, stock photos, or generic mockups.
+
+Use these exact project titles and image mappings:
+1. Al-Noor Islamic Academy — `public/images/projects/al-noor-islamic-academy.png`
+2. Asma Restaurant — `public/images/projects/asma-restaurant.png`
+3. Agricology — `public/images/projects/agricology.png`
+4. Carewell Clinic — `public/images/projects/carewell-clinic.png`
+5. Bakka Training Center — `public/images/projects/bakka-training-center.png`
+
+For each project, create a beautiful responsive card with its real screenshot, title, and a short description based only on what is visible in the screenshot. Add a way to open and inspect the full-size screenshot. You may crop the card thumbnail with CSS to minimize visible browser toolbar, but retain the original image for the full preview and do not alter or fabricate the website design.
+
+Do not invent technologies used, client names, dates, live demo URLs, GitHub URLs, testimonials, metrics, or project outcomes. Keep those fields editable and hide them until Asmaa provides verified details.
+
+Build these sections: Home, About, Skills, Projects, Services, Contact, Footer. Use Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, and Lucide icons. Use reusable components and keep portfolio data in a central data file.
+
+Visual style: expressive gradients, deep navy/near-black foundation, electric purple, coral, warm yellow, cyan accents, bold typography, rounded cards, tasteful shadows, abstract accents, and subtle motion. Keep the design professional, accessible, and readable.
+
+Only use these confirmed profile facts: Asmaa Cali Jimcaale, Web Developer, Creative & Colorful. Do not invent personal biography, qualifications, years of experience, contact information, or social links. Use editable placeholders for missing information.
+
+Make the website fully responsive, keyboard accessible, with visible focus states and reduced-motion support. Contact form must validate name, email, and message, and must not claim to send messages unless a real backend/email integration exists.
+
+Before coding, read `overview.md`, `tech_stack.md`, and `agent_rules.md`. Inspect the project structure, implement the complete site, run lint/type checks and a production build, fix errors, then summarize the completed work and the details Asmaa still needs to provide.
